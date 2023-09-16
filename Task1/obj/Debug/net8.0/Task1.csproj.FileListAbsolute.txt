@@ -1,0 +1,14 @@
+/Users/mishagolitsyn/S#Seminar8/Task1/bin/Debug/net8.0/Task1
+/Users/mishagolitsyn/S#Seminar8/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/mishagolitsyn/S#Seminar8/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/mishagolitsyn/S#Seminar8/Task1/bin/Debug/net8.0/Task1.dll
+/Users/mishagolitsyn/S#Seminar8/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/Task1.dll
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/mishagolitsyn/S#Seminar8/Task1/obj/Debug/net8.0/ref/Task1.dll
